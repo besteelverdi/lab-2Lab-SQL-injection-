@@ -1,4 +1,4 @@
-# SQL injection UNION attack, finding a column containing text
+# Lab2: SQL injection UNION attack, finding a column containing text
 
 Bu yazıda, PortSwingger tarafından oluşturulan SQLi lablarının ikincisini inceleyeceğiz. Bu labta bir sütunun dize verileriyle uyumlu olup olmadığını nasıl belirleyeceğimizi göreceğiz.
 
